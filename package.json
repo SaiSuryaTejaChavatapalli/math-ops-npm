@@ -1,5 +1,5 @@
 {
-  "name": "basic-math.js",
+  "name": "math-ops-sst",
   "version": "1.0.0",
   "description": "An npm package that can helps you to use basic math operations",
   "main": "index.js",
