@@ -1,6 +1,6 @@
 {
   "name": "math-ops-sst",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that can helps you to use basic math operations",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "url": "https://github.com/SaiSuryaTejaChavatapalli/math-ops-npm.git"
   },
   "author": "Sai Surya Teja",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "math-ops-sst": "^1.0.1"
+  }
 }
