@@ -1,0 +1,11 @@
+{
+  "name": "basic-math.js",
+  "version": "1.0.0",
+  "description": "An npm package that can helps you to use basic math operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Surya Teja",
+  "license": "ISC"
+}
